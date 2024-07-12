@@ -25,7 +25,11 @@ Clone the repository:
 📚 API Endpoints
 Games
 GET /games: List all games.
+
 POST /games{id}: Create a new game.
+
 GET /games/{id}: Retrieve a specific game.
+
 PUT /games/{id}: Update a game.
+
 DELETE /games/{id}: Delete a game.
