@@ -15,11 +15,17 @@ Postman
 Maven
 
 🚀 Getting Started
+
 Prerequisites
+
 JDK 11+
+
 Maven 3.6+
+
 MySQL 5.7+
+
 Installation
+
 Clone the repository:
 
 📚 API Endpoints
